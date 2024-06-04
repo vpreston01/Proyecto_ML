@@ -1,0 +1,11 @@
+﻿Variable Name;Role;Type;Demographic;Description
+SEQN;ID;Continuous;;Respondent Sequence Number
+age_group;Target;Categorical;Age;Respondent's Age Group (senior/non-senior)
+RIDAGEYR;Other;Continuous;Age;Respondent's Age
+RIAGENDR;Feature;Continuous;Gender;Respondent's Gender
+PAQ605;Feature;Continuous;;If the respondent engages in moderate or vigorous-intensity sports, fitness, or recreational activities in the typical week
+BMXBMI;Feature;Continuous;;Respondent's Body Mass Index
+LBXGLU;Feature;Continuous;;Respondent's Blood Glucose after fasting
+DIQ010;Feature;Continuous;;If the Respondent is diabetic
+LBXGLT;Feature;Continuous;;Respondent's Oral
+LBXIN;Feature;Continuous;;Respondent's Blood Insulin Levels
